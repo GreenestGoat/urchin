@@ -1,7 +1,7 @@
 # urchin
 
 ```html
-<script src="https://unpkg.com/urchin></script>
+<script src="https://unpkg.com/urchin"></script>
 ```
 
 ```js
